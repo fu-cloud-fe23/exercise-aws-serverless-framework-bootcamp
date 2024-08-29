@@ -16,7 +16,7 @@ serverless -v
 
 ## Övning 1 - Where it's @
 
-Du ska i denna övning göra ett API för Where it's @ där du kan "köpa" biljetter till ett evenemang. Tips! Du kan använda *events.json* ovan och spara datan i en variabel i dina Lambda-funktioner. Du ska göra övningen med `serverless framework` och använda dig av API Gateway samt Lambda-funktioner.
+Du ska i denna övning göra ett API för Where it's @ där du kan "köpa" biljetter till ett evenemang. Tips! Du kan använda *events.json* ovan och spara datan i en variabel i dina Lambda-funktioner. Du ska göra övningen med `serverless framework` och använda dig av API Gateway samt Lambda-funktioner. Eventen hittar ni i `assets/events.json`. Klipp ut dem och klistra in i era lambdafunktioner.
 
 ### Funktionalitet
 
