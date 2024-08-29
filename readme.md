@@ -23,7 +23,7 @@ Du ska i denna övning göra ett API för Where it's @ där du kan "köpa" bilje
 Det ska finnas endpoints för följande:
 * Det ska gå att kunna hämta alla evenemang.
 * Kunna beställa biljett för ett evenemang och få tillbaka information om det evenemanget samt biljettnummer.
-* När man beställt en biljett för ett evenemang ska en bekräftelse returneras. 
+* När man beställt en biljett för ett evenemang ska en bekräftelse returneras om evenemanget finns i listan. 
 
 #### Bonus!
 * På endpointen ```/admin/events``` skall man kunna lägga till ett nytt event i listan.
